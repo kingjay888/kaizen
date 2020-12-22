@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jayakrishna/GTS-IS-APAC-Kaizen/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/jayakrishna/GTS-IS-APAC-Kaizen/static/js/main.19b83cf4.chunk.js",
+    "main.js.map": "/jayakrishna/GTS-IS-APAC-Kaizen/static/js/main.19b83cf4.chunk.js.map",
+    "runtime-main.js": "/jayakrishna/GTS-IS-APAC-Kaizen/static/js/runtime-main.97b46c90.js",
+    "runtime-main.js.map": "/jayakrishna/GTS-IS-APAC-Kaizen/static/js/runtime-main.97b46c90.js.map",
+    "static/js/2.2c460e4c.chunk.js": "/jayakrishna/GTS-IS-APAC-Kaizen/static/js/2.2c460e4c.chunk.js",
+    "static/js/2.2c460e4c.chunk.js.map": "/jayakrishna/GTS-IS-APAC-Kaizen/static/js/2.2c460e4c.chunk.js.map",
+    "static/js/3.237f39e6.chunk.js": "/jayakrishna/GTS-IS-APAC-Kaizen/static/js/3.237f39e6.chunk.js",
+    "static/js/3.237f39e6.chunk.js.map": "/jayakrishna/GTS-IS-APAC-Kaizen/static/js/3.237f39e6.chunk.js.map",
+    "index.html": "/jayakrishna/GTS-IS-APAC-Kaizen/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/jayakrishna/GTS-IS-APAC-Kaizen/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.2c460e4c.chunk.js.LICENSE.txt": "/jayakrishna/GTS-IS-APAC-Kaizen/static/js/2.2c460e4c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jayakrishna/GTS-IS-APAC-Kaizen/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97b46c90.js",
+    "static/js/2.2c460e4c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.19b83cf4.chunk.js"
+  ]
+}
