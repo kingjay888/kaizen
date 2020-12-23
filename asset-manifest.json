@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/GTS-IS-APAC-Kaizen/static/css/main.d1b05096.chunk.css",
-    "main.js": "/GTS-IS-APAC-Kaizen/static/js/main.a7b9184b.chunk.js",
-    "main.js.map": "/GTS-IS-APAC-Kaizen/static/js/main.a7b9184b.chunk.js.map",
-    "runtime-main.js": "/GTS-IS-APAC-Kaizen/static/js/runtime-main.fa6fc3b5.js",
-    "runtime-main.js.map": "/GTS-IS-APAC-Kaizen/static/js/runtime-main.fa6fc3b5.js.map",
-    "static/js/2.9fc5418f.chunk.js": "/GTS-IS-APAC-Kaizen/static/js/2.9fc5418f.chunk.js",
-    "static/js/2.9fc5418f.chunk.js.map": "/GTS-IS-APAC-Kaizen/static/js/2.9fc5418f.chunk.js.map",
-    "index.html": "/GTS-IS-APAC-Kaizen/index.html",
-    "precache-manifest.c2711ae064cb781e956d278d9a84be88.js": "/GTS-IS-APAC-Kaizen/precache-manifest.c2711ae064cb781e956d278d9a84be88.js",
-    "service-worker.js": "/GTS-IS-APAC-Kaizen/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/GTS-IS-APAC-Kaizen/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.9fc5418f.chunk.js.LICENSE.txt": "/GTS-IS-APAC-Kaizen/static/js/2.9fc5418f.chunk.js.LICENSE.txt"
+    "main.css": "/Kaizen/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Kaizen/static/js/main.7baeb093.chunk.js",
+    "main.js.map": "/Kaizen/static/js/main.7baeb093.chunk.js.map",
+    "runtime-main.js": "/Kaizen/static/js/runtime-main.242e0d06.js",
+    "runtime-main.js.map": "/Kaizen/static/js/runtime-main.242e0d06.js.map",
+    "static/js/2.9fc5418f.chunk.js": "/Kaizen/static/js/2.9fc5418f.chunk.js",
+    "static/js/2.9fc5418f.chunk.js.map": "/Kaizen/static/js/2.9fc5418f.chunk.js.map",
+    "index.html": "/Kaizen/index.html",
+    "precache-manifest.ce9e03ed1f426109d028e825cf094be0.js": "/Kaizen/precache-manifest.ce9e03ed1f426109d028e825cf094be0.js",
+    "service-worker.js": "/Kaizen/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Kaizen/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9fc5418f.chunk.js.LICENSE.txt": "/Kaizen/static/js/2.9fc5418f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa6fc3b5.js",
+    "static/js/runtime-main.242e0d06.js",
     "static/js/2.9fc5418f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.a7b9184b.chunk.js"
+    "static/js/main.7baeb093.chunk.js"
   ]
 }
