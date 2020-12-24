@@ -2,7 +2,7 @@
   "name": "kaizen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kingjay888.github.io/Kaizen",
+  "homepage": "https://kingjay888.github.io/Kaizen",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
