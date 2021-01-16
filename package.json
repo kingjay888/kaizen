@@ -2,7 +2,11 @@
   "name": "kaizen",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://github.ibm.com/jayakrishna/generic-forms-master",
+=======
+  "homepage": "http://kingjay888.github.io/Kaizen",
+>>>>>>> 3763db5c56f4af4e62c13376f51a7ea00cb3bc87
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
